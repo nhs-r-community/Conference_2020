@@ -1,5 +1,5 @@
 
-# NHS-R Community Conference Workshops 2019 <a href='https://nhsrcommunity.com/'><img src='man/figures/logo.png' align="right" height="80" /></a>
+# NHS-R Community Conference Workshops 2020 <a href='https://nhsrcommunity.com/'><img src='man/figures/logo.png' align="right" height="80" /></a>
 
 This repository holds the content for the NHS-R Community conference,
 November 2020.
@@ -67,8 +67,8 @@ steps:**
 
 ### For workshop leaders:
 
-Please commit you workshop material to a GitHub repository by
-30/10/2019. This will allow us time to make sure your material is
+Please commit you workshop material to a GitHub repository by the date
+requested. This will allow us time to make sure your material is
 available on RStudio cloud. Please email a link to your repository, and
 a list of the required `R` packages, to
 [nhsrconfspeakers@gmail.com](mailto:nhsrconfspeakers@gmail).
