@@ -54,7 +54,7 @@ __To download and use this material on you machine, please use these steps:__
 
 ### For workshop leaders:
 
-Please commit you workshop material to a GitHub repository by 30/10/2019.  This will allow us time to make sure your material is available on RStudio cloud.  Please email a link to your repository, and a list of the required `R` packages, to [nhsrconfspeakers@gmail.com](mailto:nhsrconfspeakers@gmail).
+Please commit you workshop material to a GitHub repository by the date requested.  This will allow us time to make sure your material is available on RStudio cloud.  Please email a link to your repository, and a list of the required `R` packages, to [nhsrconfspeakers@gmail.com](mailto:nhsrconfspeakers@gmail).
 
 If you are using healthcare related datasets as examples, please consider adding them to the `NHSRdatasets` package.  The data can then be reused by other to learn `R` or when running training.
 You can find the package at: https://github.com/nhs-r-community/NHSRdatasets
