@@ -1,5 +1,5 @@
 
-# NHS-R Community Conference Workshops 2020 <a href='https://nhsrcommunity.com/'><img src='man/figures/logo.png' align="right" height="80" /></a>
+# NHS-R Community Conference Workshops 2020 <a href='https://nhsrcommunity.com/'><img src="man/figures/logo.png" align="right" height="80"/></a>
 
 This repository holds the content for the NHS-R Community conference,
 November 2020.
@@ -21,13 +21,10 @@ material.
 
 ## Workshop sessions
 
-### Day1
-
-TBC
-
-### Day 2
-
-TBC
+| Workshop | Name                                                                                  |   Presenter   |                                                       Link |
+| -------- | :------------------------------------------------------------------------------------ | :-----------: | ---------------------------------------------------------: |
+| 1        | An introduction to Public Health England’s packages; fingertipsR and fingertipscharts | Sebastian Fox | [GitHub](https://github.com/sebastian-fox/NHSR_fingertips) |
+| 2        | Introduction to R                                                                     |  Zoë Turner   |               <https://github.com/nhs-r-community/intro_r> |
 
 <br><br>
 
@@ -54,7 +51,7 @@ your own machine, please use the RStudio Cloud method.
 steps:**
 
 1.  Make sure you have `R` and RStudio installed.
-    <img src='man/figures/dwn_clone.png' align="right" height="200" />
+    <img src="man/figures/dwn_clone.png" align="right" height="200"/>
 
 2.  Identify the sessions you are attending from the list above, and
     follow the link to the relevant repository.
