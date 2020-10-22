@@ -24,7 +24,8 @@ material.
 | Workshop | Name                                                                                  |   Presenter   |                                                       Link |
 | -------- | :------------------------------------------------------------------------------------ | :-----------: | ---------------------------------------------------------: |
 | 1        | An introduction to Public Health England’s packages; fingertipsR and fingertipscharts | Sebastian Fox | [GitHub](https://github.com/sebastian-fox/NHSR_fingertips) |
-| 2        | Introduction to R                                                                     |  Zoë Turner   |               <https://github.com/nhs-r-community/intro_r> |
+| 2        | Introduction to R                                                                     |  Zoë Turner   |       [GitHub](https://github.com/nhs-r-community/intro_r) |
+| 3        | Introduction to ggplot2                                                               | Rhian Davies  |     [GitHub](https://github.com/jumpingrivers/nhs-ggplot2) |
 
 <br><br>
 
