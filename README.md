@@ -21,11 +21,13 @@ material.
 
 ## Workshop sessions
 
-| Workshop | Name                                                                                  |   Presenter   |                                                       Link |
-| -------- | :------------------------------------------------------------------------------------ | :-----------: | ---------------------------------------------------------: |
-| 1        | An introduction to Public Health England’s packages; fingertipsR and fingertipscharts | Sebastian Fox | [GitHub](https://github.com/sebastian-fox/NHSR_fingertips) |
-| 2        | Introduction to R                                                                     |  Zoë Turner   |       [GitHub](https://github.com/nhs-r-community/intro_r) |
-| 3        | Introduction to ggplot2                                                               | Rhian Davies  |     [GitHub](https://github.com/jumpingrivers/nhs-ggplot2) |
+| Workshop | Name                                                                                  |   Presenter   |                                                               Link |
+| -------- | :------------------------------------------------------------------------------------ | :-----------: | -----------------------------------------------------------------: |
+| 1        | An introduction to Public Health England’s packages; fingertipsR and fingertipscharts | Sebastian Fox |         [GitHub](https://github.com/sebastian-fox/NHSR_fingertips) |
+| 2        | Introduction to R                                                                     |  Zoë Turner   |               [GitHub](https://github.com/nhs-r-community/intro_r) |
+| 3        | Introduction to ggplot2                                                               | Rhian Davies  |             [GitHub](https://github.com/jumpingrivers/nhs-ggplot2) |
+| 4        | Regression modelling                                                                  | Chris Mainey  | [GitHub](https://github.com/chrismainey/Regression_Modelling_NHSR) |
+| 5        | Great tables                                                                          | Rich Iannone  |         [GitHub](https://github.com/rich-iannone/gt-workshop-2020) |
 
 <br><br>
 
@@ -36,7 +38,7 @@ There are two ways to access the workshops:
   - Using the RStudio Cloud Workspace **(Our prefered option)**: All
     material is available in the conference workspace:
     <https://bit.ly/2Nnblc2> . This works from your web browser, and you
-    do not need R and Rstudio installd on your machine to access it.
+    do not need R and Rstudio installed on your machine to access it.
 
   - Using your own machine: You can download zip files of each workshop,
     or if you are familiar with Git and GitHub, you can clone the
