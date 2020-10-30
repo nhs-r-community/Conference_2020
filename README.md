@@ -21,18 +21,20 @@ material.
 
 ## Workshop sessions
 
-| Workshop | Name                                                                                  |       Presenter        |                                                               Link |
-| -------- | :------------------------------------------------------------------------------------ | :--------------------: | -----------------------------------------------------------------: |
-| 1        | An introduction to Public Health England’s packages; fingertipsR and fingertipscharts |     Sebastian Fox      |         [GitHub](https://github.com/sebastian-fox/NHSR_fingertips) |
-| 2        | Introduction to R                                                                     |       Zoë Turner       |               [GitHub](https://github.com/nhs-r-community/intro_r) |
-| 3        | Introduction to ggplot2                                                               |      Rhian Davies      |             [GitHub](https://github.com/jumpingrivers/nhs-ggplot2) |
-| 4        | Regression modelling                                                                  |      Chris Mainey      | [GitHub](https://github.com/chrismainey/Regression_Modelling_NHSR) |
-| 5        | Great tables                                                                          |      Rich Iannone      |         [GitHub](https://github.com/rich-iannone/gt-workshop-2020) |
-| 6        | R for Excel users                                                                     |       Sean Manzi       |   [GitHub](https://github.com/semanzi/R_for_Excel_users_NHSR_2020) |
-| 7        | Text analysis                                                                         |      Duncan Leng       |     [GitHub](https://github.com/dleng2242/NHS-R_2020_TextAnalysis) |
-| 8        | Introduction to changepoint analysis with R                                           |    Rebecca Killick     |     [GitHub](https://github.com/rkillick/intro-changepoint-course) |
-| 9        | Further changepoint analysis techniques                                               |    Rebecca Killick     |  [GitHub](https://github.com/rkillick/further-changepoints-course) |
-| 10       | Interactive reports                                                                   | Simon Wellesley-Miller |                     [GitHub](https://github.com/SimonW-M/Markdown) |
+| Workshop | Name                                                                                  |       Presenter        |                                                                        Link |
+| -------- | :------------------------------------------------------------------------------------ | :--------------------: | --------------------------------------------------------------------------: |
+| 1        | An introduction to Public Health England’s packages; fingertipsR and fingertipscharts |     Sebastian Fox      |                  [GitHub](https://github.com/sebastian-fox/NHSR_fingertips) |
+| 2        | Introduction to R                                                                     |       Zoë Turner       |                        [GitHub](https://github.com/nhs-r-community/intro_r) |
+| 3        | Introduction to ggplot2                                                               |      Rhian Davies      |                      [GitHub](https://github.com/jumpingrivers/nhs-ggplot2) |
+| 4        | Regression modelling                                                                  |      Chris Mainey      |          [GitHub](https://github.com/chrismainey/Regression_Modelling_NHSR) |
+| 5        | Great tables                                                                          |      Rich Iannone      |                  [GitHub](https://github.com/rich-iannone/gt-workshop-2020) |
+| 6        | R for Excel users                                                                     |       Sean Manzi       |            [GitHub](https://github.com/semanzi/R_for_Excel_users_NHSR_2020) |
+| 7        | Text analysis                                                                         |      Duncan Leng       |              [GitHub](https://github.com/dleng2242/NHS-R_2020_TextAnalysis) |
+| 8        | Introduction to changepoint analysis with R                                           |    Rebecca Killick     |              [GitHub](https://github.com/rkillick/intro-changepoint-course) |
+| 9        | Further changepoint analysis techniques                                               |    Rebecca Killick     |           [GitHub](https://github.com/rkillick/further-changepoints-course) |
+| 10       | Interactive reports                                                                   | Simon Wellesley-Miller |                              [GitHub](https://github.com/SimonW-M/Markdown) |
+| 11       | Xaringan slides                                                                       |     Silvia Canelon     | [GitHub](https://spcanelon.github.io/xaringan-basics-and-beyond/index.html) |
+| 12       | Tour of tidyverse                                                                     |     Max Krongborg      |               [GitLab](https://gitlab.com/mkronborg/tour-of-the-tidyverse/) |
 
 <br><br>
 
