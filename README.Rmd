@@ -32,6 +32,7 @@ The conference programme includes several workshop session. Please make sure you
 | 10 | Interactive reports | Simon Wellesley-Miller | [GitHub](https://github.com/SimonW-M/Markdown) | 
 | 11 | Xaringan slides | Silvia Canelon | [GitHub](https://spcanelon.github.io/xaringan-basics-and-beyond/index.html) |
 |12 | Tour of tidyverse | Max Krongborg | [GitLab](https://gitlab.com/mkronborg/tour-of-the-tidyverse/) |
+| 13 | Introduction to R Markdown | Matthew Francis [GitHub](https://github.com/matthew-francis/NHSRConference2020) |
 
 <br><br>
 
