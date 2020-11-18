@@ -37,6 +37,7 @@ material.
 | 12       | Tour of tidyverse                                                                     |     Max Krongborg      |               [GitLab](https://gitlab.com/mkronborg/tour-of-the-tidyverse/) |
 | 13       | Introduction to R Markdown                                                            |    Matthew Francis     |             [GitHub](https://github.com/matthew-francis/NHSRConference2020) |
 | 14       | Deep learning                                                                         |   Leon Eyrich Jessen   |                            [GitHub](https://github.com/leonjessen/NHSR2020) |
+| 15       | Introduction to Shiny                                                                 |      Chris Beeley      |                 [GitHub](https://github.com/nhs-r-community/shiny-training) |
 
 <br><br>
 
