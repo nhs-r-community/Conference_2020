@@ -9,7 +9,7 @@ relevant folders, and workshop details are below.
 
 <br>
 
------
+------------------------------------------------------------------------
 
 # Workshops
 
@@ -21,23 +21,23 @@ material.
 
 ## Workshop sessions
 
-| Workshop | Name                                                                                  |       Presenter        |                                                                        Link |
-| -------- | :------------------------------------------------------------------------------------ | :--------------------: | --------------------------------------------------------------------------: |
-| 1        | An introduction to Public Health England’s packages; fingertipsR and fingertipscharts |     Sebastian Fox      |                  [GitHub](https://github.com/sebastian-fox/NHSR_fingertips) |
-| 2        | Introduction to R                                                                     |       Zoë Turner       |                        [GitHub](https://github.com/nhs-r-community/intro_r) |
-| 3        | Introduction to ggplot2                                                               |      Rhian Davies      |                      [GitHub](https://github.com/jumpingrivers/nhs-ggplot2) |
-| 4        | Regression modelling                                                                  |      Chris Mainey      |          [GitHub](https://github.com/chrismainey/Regression_Modelling_NHSR) |
-| 5        | Great tables                                                                          |      Rich Iannone      |                  [GitHub](https://github.com/rich-iannone/gt-workshop-2020) |
-| 6        | R for Excel users                                                                     |       Sean Manzi       |            [GitHub](https://github.com/semanzi/R_for_Excel_users_NHSR_2020) |
-| 7        | Text analysis                                                                         |      Duncan Leng       |              [GitHub](https://github.com/dleng2242/NHS-R_2020_TextAnalysis) |
-| 8        | Introduction to changepoint analysis with R                                           |    Rebecca Killick     |              [GitHub](https://github.com/rkillick/intro-changepoint-course) |
-| 9        | Further changepoint analysis techniques                                               |    Rebecca Killick     |           [GitHub](https://github.com/rkillick/further-changepoints-course) |
-| 10       | Interactive reports                                                                   | Simon Wellesley-Miller |                              [GitHub](https://github.com/SimonW-M/Markdown) |
-| 11       | Xaringan slides                                                                       |     Silvia Canelon     | [GitHub](https://spcanelon.github.io/xaringan-basics-and-beyond/index.html) |
-| 12       | Tour of tidyverse                                                                     |     Max Krongborg      |               [GitLab](https://gitlab.com/mkronborg/tour-of-the-tidyverse/) |
-| 13       | Introduction to R Markdown                                                            |    Matthew Francis     |             [GitHub](https://github.com/matthew-francis/NHSRConference2020) |
-| 14       | Deep learning                                                                         |   Leon Eyrich Jessen   |                            [GitHub](https://github.com/leonjessen/NHSR2020) |
-| 15       | Introduction to Shiny                                                                 |      Chris Beeley      |                 [GitHub](https://github.com/nhs-r-community/shiny-training) |
+| Workshop | Name                                                                                  |       Presenter        |                                                                        Link |                                                            Video                                                             |
+|----------|:--------------------------------------------------------------------------------------|:----------------------:|----------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
+| 1        | An introduction to Public Health England’s packages; fingertipsR and fingertipscharts |     Sebastian Fox      |                  [GitHub](https://github.com/sebastian-fox/NHSR_fingertips) |                                           [YouTube](https://youtu.be/veJlBNoK1zA)                                            |
+| 2        | Introduction to R                                                                     |       Zoë Turner       |                        [GitHub](https://github.com/nhs-r-community/intro_r) | YouTube: [Part1](https://youtu.be/Wmc0GS6gayI), [Part2](https://youtu.be/N3pIxcCB9K8), [Part3](https://youtu.be/PX316WC0oiU) |
+| 3        | Introduction to ggplot2                                                               |      Rhian Davies      |                      [GitHub](https://github.com/jumpingrivers/nhs-ggplot2) |                                           [YouTube](https://youtu.be/jiuDr4aYgkY)                                            |
+| 4        | Regression modelling                                                                  |      Chris Mainey      |          [GitHub](https://github.com/chrismainey/Regression_Modelling_NHSR) |                                           [YouTube](https://youtu.be/UWLfhQFRde4)                                            |
+| 5        | Great tables                                                                          |      Rich Iannone      |                  [GitHub](https://github.com/rich-iannone/gt-workshop-2020) |                                           [YouTube](https://youtu.be/lXHpFRVfMfM)                                            |
+| 6        | R for Excel users                                                                     |       Sean Manzi       |            [GitHub](https://github.com/semanzi/R_for_Excel_users_NHSR_2020) |                                           [YouTube](https://youtu.be/EXjgo3ByVUk)                                            |
+| 7        | Text analysis                                                                         |      Duncan Leng       |              [GitHub](https://github.com/dleng2242/NHS-R_2020_TextAnalysis) |                                           [YouTube](https://youtu.be/MxjHiIaVmA0)                                            |
+| 8        | Introduction to changepoint analysis with R                                           |    Rebecca Killick     |              [GitHub](https://github.com/rkillick/intro-changepoint-course) |                                           [YouTube](https://youtu.be/WelmlZK5G2Y)                                            |
+| 9        | Further changepoint analysis techniques                                               |    Rebecca Killick     |           [GitHub](https://github.com/rkillick/further-changepoints-course) |                                           [YouTube](https://youtu.be/WelmlZK5G2Y)                                            |
+| 10       | Interactive reports                                                                   | Simon Wellesley-Miller |                              [GitHub](https://github.com/SimonW-M/Markdown) |                                           [YouTube](https://youtu.be/VATINtNWpH0)                                            |
+| 11       | Xaringan slides                                                                       |     Silvia Canelon     | [GitHub](https://spcanelon.github.io/xaringan-basics-and-beyond/index.html) |                    YouTube: [Part1](https://youtu.be/M3skTMQbCD0), [Part2](https://youtu.be/cAtpZxW4bTI)                     |
+| 12       | Tour of tidyverse                                                                     |     Max Krongborg      |               [GitLab](https://gitlab.com/mkronborg/tour-of-the-tidyverse/) |                                           [YouTube](https://youtu.be/lQgfPFldh3w)                                            |
+| 13       | Introduction to R Markdown                                                            |    Matthew Francis     |             [GitHub](https://github.com/matthew-francis/NHSRConference2020) |                                           [YouTube](https://youtu.be/UrZsKfNw1wc)                                            |
+| 14       | Deep learning                                                                         |   Leon Eyrich Jessen   |                            [GitHub](https://github.com/leonjessen/NHSR2020) |                                                              \-                                                              |
+| 15       | Introduction to Shiny                                                                 |      Chris Beeley      |                 [GitHub](https://github.com/nhs-r-community/shiny-training) | YouTube: [Part1](https://youtu.be/b7zN2OX7WT4), [Part2](https://youtu.be/Jq1hGECPgxw), [Part3](https://youtu.be/gYBHmwKxaps) |
 
 <br><br>
 
@@ -45,12 +45,12 @@ material.
 
 There are two ways to access the workshops:
 
-  - Using the RStudio Cloud Workspace **(Our prefered option)**: All
+-   Using the RStudio Cloud Workspace **(Our prefered option)**: All
     material is available in the conference workspace:
     <https://bit.ly/3mfJM4k> . This works from your web browser, and you
     do not need R and Rstudio installed on your machine to access it.
 
-  - Using your own machine: You can download zip files of each workshop,
+-   Using your own machine: You can download zip files of each workshop,
     or if you are familiar with Git and GitHub, you can clone the
     repository. Follow the links in the table above to the relevant
     workshops.
@@ -84,6 +84,6 @@ package at: <https://github.com/nhs-r-community/NHSRdatasets>
 
 <br>
 
-**Please note that the ‘Conference\_2020’ project is released with a
+**Please note that the ‘Conference_2020’ project is released with a
 [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to
 this project, you agree to abide by its terms.**
